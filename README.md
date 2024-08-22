@@ -1,6 +1,6 @@
 # Emprendimiento de venta de té // Creación de clases y objetos en Python
 
-EL programa es desarrollado en tres archivos los cuales colaboran con la venta de té de hoja artesanal.
+EL programa es desarrollado en tres archivos los cuales colaboran con la venta de té de hoja artesanal para un emprendimeinto.
 
 ## Descripción
 
