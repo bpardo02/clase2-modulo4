@@ -8,10 +8,15 @@ Utilizando Python y las características de la Programación Orientada a Objetos
 
 ## 01 - instancias.py
 
+Este archivo de código en Python importa la clase Te desde un módulo llamado te. A continuación, se crean dos instancias de la clase Te, denominadas te_1 y te_2, con diferentes parámetros (1, 300) y (2, 500), respectivamente. Luego, se determina y almacena el tipo de ambos objetos en las variables tipo_1 y tipo_2. El código imprime los tipos de ambos objetos y verifica si son del mismo tipo, imprimiendo un mensaje en consecuencia. 
+
 ## 02 - te.py
+
+Este script en Python permite a los usuarios realizar un pedido de té. Utilizando la clase Te importada desde el módulo te, el programa solicita al usuario que elija un sabor de té (negro, verde o de hierbas) y el formato (300 o 500 gramos). Luego, obtiene el tiempo de preparación y la recomendación de uso del té seleccionado, así como su precio correspondiente.
 
 ## 03 - pedidos.py
 
+Este script permite a los usuarios realizar un pedido de té a través de la consola. Utilizando la clase Te del módulo te, el programa solicita al usuario que elija un sabor de té y un formato de pedido.
 
 ## Prerrequisitos o Dependencias
 
