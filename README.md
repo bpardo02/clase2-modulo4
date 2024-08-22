@@ -1,3 +1,18 @@
+# Emprendimiento de venta de té // Creación de clases y objetos en Python
+
+EL programa es desarrollado en tres archivos los cuales colaboran con la venta de té de hoja artesanal.
+
+## Descripción
+
+Utilizando Python y las características de la Programación Orientada a Objetos, se genera un programa que permita obtener el tiempo de preparación, recomendación y precio, según el sabor y el formato entregado por el usuario, para así obtener los datos n necesarios para generar un pedido.
+
+## 01 - instancias.py
+
+## 02 - te.py
+
+## 03 - pedidos.py
+
+
 ## Prerrequisitos o Dependencias
 
 Sistema Operativo Windows, Linux, MacOS
