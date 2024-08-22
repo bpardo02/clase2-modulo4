@@ -8,13 +8,13 @@ Lenguaje de programación Python 3.12
 Clonar el repositorio:
 
 ```bash
-# git@github.com:bpardo02/modulo4_clase2.git
+# git@github.com:bpardo02/clase2_modulo4.git
 ```
 
 Ingresar a la carpeta del proyecto:
 
 ```bash
-# modulo4_clase2
+# clase2_modulo4
 ```
 
 Autor
