@@ -8,13 +8,13 @@ Lenguaje de programación Python 3.12
 Clonar el repositorio:
 
 ```bash
-# git@github.com:vanemn/prueba_modulo3_clase17.git
+# git@github.com:bpardo02/modulo4_clase2.git
 ```
 
 Ingresar a la carpeta del proyecto:
 
 ```bash
-# prueba_modulo3_clase17
+# modulo4_clase2
 ```
 
 Autor
